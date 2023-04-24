@@ -16,7 +16,7 @@
 ## List of projects<a class="anchor" id="chapter3"></a>
 № | Project name/Название проекта | Описание/Description
 | --- | --- | ---
-1 | [Проект1](https://) | Название.
+1 | [Проект1](https://github.com/RinaTrenina/AD/tree/main/Project2) | Название.
 2 | [Проект2](https://) | Название.
 3 | [Проект3](https://) | Название.
 4 | [Проект4](https://) | Название.
