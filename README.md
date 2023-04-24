@@ -19,7 +19,7 @@
 2 | [Проект2](https://) | Название.
 3 | [Проект3](https://) | Название.
 4 | [Проект4](https://) | Название.
-5 | [Evaluation of AB test results](https://) | Оценка результатов А/В теста.
+5 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста.
 
 ## Инструментарий<a class="anchor" id="chapter4"></a>
 Основные инструменты разработки:
