@@ -16,7 +16,7 @@
 № | Project name/Название проекта | Описание/Description
 | --- | --- | ---
 1 | [Проект1](https://github.com/RinaTrenina/AD/tree/main/Project2) | Название.
-2 | [Moccow catering](https://github.com/RinaTrenina/AD/tree/main/Moscow%20catering) | Исследования рынка общепита в Москве.
+2 | [Moscow catering](https://github.com/RinaTrenina/AD/tree/main/Moscow%20catering) | Исследования рынка общепита в Москве.
 3 | [Дашборды](https://github.com/RinaTrenina/AD/tree/main/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B) | Анализ поведения пользователей в мобильном приложении. Анализ взаимодействия пользователей с карточками Яндекс.Дзен
 4 | [Analysis of user behavior in a mobile application](https://github.com/RinaTrenina/AD/tree/main/Analysis%20of%20user%20behavior%20in%20a%20mobile%20application) | Анализ поведения пользователей в мобильном приложении
 5 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста
