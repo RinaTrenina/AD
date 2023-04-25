@@ -26,7 +26,7 @@
 - язык программирования `Python3` и его библиотеки:
 	- аналитическая библиотека [`Pandas`](https://pandas.pydata.org/);
 	- библиотеки для выполнения научных и инженерных расчётов [`NumPy`](http://www.numpy.org/), [`math`](https://docs.python.org/3/library/math.html), [`SciPy`](https://www.scipy.org/);
-	- библиотеки для визуализации данных [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/);
+	- библиотеки для визуализации данных [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/), [`folium`](https://python-visualization.github.io/folium/);
 	- вспомогательные библиотеки [`datetime`](https://docs.python.org/3/library/datetime.html), [`display`](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html), [`warnings`](https://docs.python.org/3/library/warnings.html);
 - среда программирования [`Jupyter Notebook`](https://jupyter.org/);
 - язык запросов (`SQL`).
