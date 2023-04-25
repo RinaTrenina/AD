@@ -18,7 +18,7 @@
 1 | [Проект1](https://github.com/RinaTrenina/AD/tree/main/Project2) | Название.
 2 | [Проект2](https://) | Название.
 3 | [Проект3](https://) | Название.
-4 | [Analysis of user behavior in a mobile application](https://) | Анализ поведения пользователей в мобильном приложении.
+4 | [Analysis of user behavior in a mobile application](https://github.com/RinaTrenina/AD/tree/main/Analysis%20of%20user%20behavior%20in%20a%20mobile%20application) | Анализ поведения пользователей в мобильном приложении.
 5 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста.
 
 ## Инструментарий<a class="anchor" id="chapter4"></a>
