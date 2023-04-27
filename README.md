@@ -21,7 +21,7 @@
 4 | [Дашборды](https://github.com/RinaTrenina/AD/tree/main/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B) | Анализ поведения пользователей в мобильном приложении. Анализ взаимодействия пользователей с карточками Яндекс.Дзен
 5 | [Analysis of user behavior in a mobile application](https://github.com/RinaTrenina/AD/tree/main/Analysis%20of%20user%20behavior%20in%20a%20mobile%20application) | Анализ поведения пользователей в мобильном приложении продажи б/у вещей
 6 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста
-7 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста
+7 | [Return on marketing investment Procrastinated Pro](https://github.com/RinaTrenina/AD/tree/main/Return%20on%20marketing%20investment%20Procrastinated%20Pro) | Оценка окупаемости рекламы приложения Procrastinate Pro+
 8 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста
 
 ## Инструментарий<a class="anchor" id="chapter4"></a>
