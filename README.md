@@ -22,7 +22,7 @@
 5 | [Analysis of user behavior in a mobile application](https://github.com/RinaTrenina/AD/tree/main/Analysis%20of%20user%20behavior%20in%20a%20mobile%20application) | Анализ поведения пользователей в мобильном приложении продажи б/у вещей
 6 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста
 7 | [Return on marketing investment Procrastinated Pro](https://github.com/RinaTrenina/AD/tree/main/Return%20on%20marketing%20investment%20Procrastinated%20Pro) | Оценка окупаемости рекламы приложения Procrastinate Pro+
-8 | [Evaluation of AB test results](https://github.com/RinaTrenina/AD/tree/main/Evaluation%20of%20AB%20test%20results) | Оценка результатов А/В теста
+8 | [Popular_games](https://github.com/RinaTrenina/AD/tree/main/Popular_games) | Выявление закономерностей, определяющих успешность игр
 
 ## Инструментарий<a class="anchor" id="chapter4"></a>
 Основные инструменты разработки:
