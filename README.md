@@ -15,7 +15,7 @@
 ## List of projects<a class="anchor" id="chapter3"></a>
 № | Project name/Название проекта | Описание/Description
 | --- | --- | ---
-1 | [Prioritization of hypotheses and analysis of AB test results] (https://github.com/RinaTrenina/AD/tree/main/Prioritization%20of%20hypotheses%20and%20analysis%20of%20AB%20test%20results) | Приоритизация гипотез и анализ результатов А/В-теста
+1 | [Prioritization of hypotheses and analysis of AB test results](https://github.com/RinaTrenina/AD/tree/main/Prioritization%20of%20hypotheses%20and%20analysis%20of%20AB%20test%20results) | Приоритизация гипотез и анализ результатов А/В-теста
 2 | [Analysis of the behavior of mobile application users](https://github.com/RinaTrenina/AD/tree/main/Analysis%20of%20the%20behavior%20of%20mobile%20application%20users) | Анализ поведения пользователей мобильного приложения по продаже продуктов питания
 3 | [Moscow catering](https://github.com/RinaTrenina/AD/tree/main/Moscow%20catering) | Исследования рынка общепита в Москве
 4 | [Дашборды](https://github.com/RinaTrenina/AD/tree/main/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B) | Анализ поведения пользователей в мобильном приложении. Анализ взаимодействия пользователей с карточками Яндекс.Дзен
